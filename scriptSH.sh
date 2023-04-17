@@ -325,7 +325,7 @@ DELETE_MOVIE_SERIE() {
 cd "$(dirname "${BASH_SOURCE[0]}")"
 
 #My key to acesss imdb API
-imdbAPIkey="k_3fe0i6hl"
+imdbAPIkey=""
 
 while :
 do
